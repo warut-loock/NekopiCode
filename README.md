@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NekopiCode
-- 👀 I’m interested in Android, Kotlin-, Multiplatform, For Data Science
+- 👀 I’m interested in Android, Kotlin and C#
 - 🌱 I’m currently learning Android Development
 
 <!---
