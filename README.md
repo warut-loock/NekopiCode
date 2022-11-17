@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NekopiCode
-- 👀 I’m interested in Android, Kotlin and C#
-- 🌱 I’m currently learning Android Development
+- 👀 I’m interested in Android, Kotlin.
+- 🌱 Currently in certification process as Android Developer.
 
 <!---
 NekopiCode/NekopiCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
