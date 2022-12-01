@@ -1,4 +1,4 @@
-🌱 Certified Android Developer and 👀 interested in Android, Kotlin.
+Here is my recent work.
 
 <!---
 NekopiCode/NekopiCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
